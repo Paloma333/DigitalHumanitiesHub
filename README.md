@@ -17,7 +17,7 @@
 - [四、经济与管理](Economics_and_Management.md)
 - [五、新闻传播](Journalism_and_Communication.md)
 - [六、语言文学](Language_and_Literature.md)
-- [七、](Education.md)
+- [七、历史学](History.md)
 - [八、艺术](Art.md)
 - [九、哲学宗教](Philosophy_and_Religion.md)
 
