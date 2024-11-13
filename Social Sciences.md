@@ -1,12 +1,12 @@
-#社会科学类
-##社会科学
+# 社会科学类
+## 社会科学
 
-###中国综合社会调查数据CGSS
+### 中国综合社会调查数据CGSS
 
 网址：http://www.cnsda.org/index.php?r=site/datarecommendation
+![](images/csnda.png)
 
 中国综合社会调查（Chinese General Social Survey，CGSS）始于2003年，是我国最早的全国性、综合性、连续性学术调查项目。CGSS系统、全面地收集社会、社区、家庭、个人多个层次的数据，总结社会变迁的趋势，探讨具有重大科学和现实意义的议题，推动国内科学研究的开放与共享，为国际比较研究提供数据资料，充当多学科的经济与社会数据采集平台。目前，CGSS数据已成为研究中国社会最主要的数据来源，广泛地应用于科研、教学、政府决策之中。
-
 2003-2008年是CGSS项目的第一期，共完成5次年度调查（2007年没有执行），生产出5套高质量的年度数据。除2004年的调查数据，剩下的年度数据都已在中国国家调查数据库（China National Survey Data Archive，CNSDA）的网站（cnsda.ruc.edu.cn）上发布，到目前为止，用户可免费申请使用。
 
 执行机构：中国人民大学中国调查与数据中心
@@ -33,13 +33,12 @@
 
 4.分析数据：在某个指标上进行横向比较 。
 
-/Users/liuyushan/Desktop/github/assets/images/cnsda.png 
+---
 
-
-
-###中国社会状况综合调查（CSS）
+### 中国社会状况综合调查（CSS）
 
 网址：http://css.cssn.cn/css_sy/
+![](images/css.png)
 
 **简介：**
 
@@ -49,13 +48,12 @@
 
 为了兼顾纵贯调查的连续性和社会议题的现实性， CSS的调查问卷在设计上分为基础模块、更替模块和热点模块三个部分。其中基础模块固定不变，包含了个人基础信息、劳动与就业、家庭结构、家庭经济状况等内容；更替模块如社会阶层地位流动、社会保障、休闲消费、社会价值观等，隔一定周期后重复调查；热点模块则与时俱进，目前已进行了社会群体利益关系、民生问题、城镇化等主题的研究。
 
+---
 
-/Users/liuyushan/Desktop/github/assets/images/css.png
-
-
-###中国家庭追踪调查数据CFPS
+### 中国家庭追踪调查数据CFPS
 
 网址：https://www.isss.pku.edu.cn/cfps/
+![](images/cfps.png)
 
 **简介：**
 
@@ -91,10 +89,10 @@
 
 少儿问卷的调查内容包括：学业情况、日常生活、健康、职业期望、与父母关系、成长环境、社会交往、价值观、以及基准测试等。
 
-/Users/liuyushan/Desktop/github/assets/images/cfps.png 
+---
 
 
-###复旦大学社会科学数据平台
+### 复旦大学社会科学数据平台
 网址：https://dvn.fudan.edu.cn/home/ 
 
 **简介：**
@@ -116,14 +114,14 @@
 数据下载：访问受限，仅对高校、政府及科研机构开放。 
 
 
-![image](/Users/liuyushan/Desktop/github/assets/images/1.png)
-
 附：[复旦大学社会科学数据研究中心](http://fisr.fudan.edu.cn/)提供了社科方面的动态资讯
 
+---
 
-###nter-university Consortium for Political and Social Research（Michigan）
+### nter-university Consortium for Political and Social Research（Michigan）
 
 网址：http://www.icpsr.umich.edu
+![](images/icpsr.png)
 
 **简介：**
 
@@ -147,10 +145,12 @@ ICPSR研究涉及21个领域，如教育、老龄化、刑事司法、恐怖主�
 
 线上线下交流：每年都有关于社会调查定量方法的夏令营和课程。 
 
+---
 
-###台湾调查研究与数据档案库
+### 台湾调查研究与数据档案库
 
 网址：http://srda.sinica.edu.tw/
+![](images/srda.png)
 
 “學術調查研究資料庫”蒐集、保管及整理各類問卷調查資料，並採會員制對外開放資料使用。資料來源包括各大專校院、研究機構進行的學術研究調查計畫，以及政府部會應業務規劃及施政決策需要所辦理的調查統計。
 
@@ -160,11 +160,12 @@ ICPSR研究涉及21个领域，如教育、老龄化、刑事司法、恐怖主�
 
 除在網站提供數位課程及在YouTube平台設立SRDA頻道之外，每年也會舉辦資料使用工作坊、研習班、網路研討會，以及提供到校推廣課程服務等，以期觸及更多潛在的資料使用者，並讓資料能被廣泛運用，發揮最大價值。 
 
-/Users/liuyushan/Desktop/github/assets/images/srda.png
+---
 
-###欧洲社会调查（ESS）
+### 欧洲社会调查（ESS）
 
 网址：http://www.europeansocialsurvey.org/data/ 
+![](images/ESS.png)
 
 欧洲社会调查（ESS）成立于2001年，是一个欧洲范围内的跨国调查，主要目的是了解社会结构的稳定与变化，解释欧洲社会、政治、道德结构是如何变化的。研究来自欧洲30多个国家的多样化的人群的态度、信念和行为模式。 
 
@@ -178,12 +179,12 @@ ICPSR研究涉及21个领域，如教育、老龄化、刑事司法、恐怖主�
 
 数据下载：问卷（PDF）、报告（PDF）、数据（spss、sas、stata）。
 
-/Users/liuyushan/Desktop/github/assets/images/ESS.png
+---
 
-
-###GESIS
+### GESIS
 
 网址：http://www.gesis.org/en/services/data/
+![](images/gesis.png)
 
 **简介：**
 GESIS成立于1986年，是德国最大的社会调查机构，目前有300名员工为研究者提供大量的、全面的、国际相关的调查；其专业的知识和服务随时准备回答各级研究人员在最新科学方法基础上与社会相关的问题。
@@ -200,12 +201,12 @@ GESIS成立于1986年，是德国最大的社会调查机构，目前有300名�
 
 线上线下交流：针对社会研究方法的培训，发展覆盖在整个研究周期的研究技能的深度培训。 
 
-/Users/liuyushan/Desktop/github/assets/images/gesis.png
+---
 
-
-###Center for Social Research on Japan ：Social Science Japan Data Archive日本社会科学数据档案
+### Center for Social Research on Japan ：Social Science Japan Data Archive日本社会科学数据档案
 
 网址：http://csrda.iss.u-tokyo.ac.jp/en/
+![](images/jgss.png)
 
 **简介：**
 
@@ -230,12 +231,12 @@ GESIS成立于1986年，是德国最大的社会调查机构，目前有300名�
 
 数据下载：注册之后通过使用申请可以进行下载。
 
-/Users/liuyushan/Desktop/github/assets/images/jgss.png 
+---
 
-
-###Korean Social Science Data Archive 
+### Korean Social Science Data Archive 
 
 网址：http://www.kossda.or.kr/
+![](images/kossda.png)
 
 **简介：**
 
@@ -245,7 +246,7 @@ GESIS成立于1986年，是德国最大的社会调查机构，目前有300名�
 
 用户群体：个人和组织。个人主要包括学生、学者和研究人员；组织主要包含学校图书馆、研究机构公有或私有组织。 
 
-  
+
 
 **主要功能： **
 
@@ -259,11 +260,12 @@ GESIS成立于1986年，是德国最大的社会调查机构，目前有300名�
 
 线上线下交流：提供数据分析方法的高级培训。
 
+---
 
-/Users/liuyushan/Desktop/github/assets/images/kossda.png
+### 马德里社会调查中心（CIS）
+http://www.cis.es/
+![](images/cis.png)
 
-
-###马德里社会调查中心（CIS）
 CIS是马德里社会调查中心的简称。该中心主要通过开展定量、定性研究以此来分析并推进西班牙社会科学知识的发展。研究主要通过两种方式开展：中心自身开展或通过与公共机构或非营利组织合作来实现。 
 
 研究领域：选举调查、有关青年、移民、生活、公共安全、政治文化的专题调查、消费者信心指数和国际调查。 
@@ -276,105 +278,122 @@ CIS是马德里社会调查中心的简称。该中心主要通过开展定量�
 
 线上线下交流：包括对专业人士提供生产和统计数据分析的培训；对大学毕业生提供社会研究技术的培训，侧重于数据收集、分析、解释和演示；对研究生的实习，包括调查活动、管理、编辑文件和其他任何相关的时间活动；研究人员在社会科学方法论和实证研究的研讨会。 
 
-http://www.cis.es/
+
+---
 
 
+## 政治学
 
-##政治学
-
-###United Nations Documentation联合国文件
+### United Nations Documentation联合国文件
 
 网址：https://documents.un.org/
+![](images/und.png)
 
-###世界银行数据与统计 World Bank Group – Data and Statistics
+---
+
+### 世界银行数据与统计 World Bank Group – Data and Statistics
 
 网址：https://data.worldbank.org/
+![](images/wb.png)
 
+---
 
-###剑桥政治类数据库
+### 剑桥政治类数据库
 
 网址：https://www.cambridge.org/core
+![](images/cc.png)
 
 **简介：**
 
 剑桥政治类数据库是由剑桥大学出版社提供的一种在线资源，收集了全球范围内的政治数据。该数据库的内容包括书籍、期刊文章、报告、统计数据等，覆盖了国内和国际政治的各个方面。剑桥政治类数据库的特点是权威性和广泛性。它的数据来源于全球的政治学家、历史学家、经济学家等各领域的专家，因此具有很高的可信度。此外，其数据的类型和主题也非常广泛，可以满足不同用户的需求。
 
-/Users/liuyushan/Desktop/github/assets/images/cambridge.png
+---
 
-###PROQUEST政治科学数据库
+
+### PROQUEST政治科学数据库
 
 网址：https://about.proquest.com/en/products-services/polysci/
+![](images/proquest.png)
 
 **简介：**
 
 ProQuest政治科学数据库是一个专门为研究政治学领域的学者和学生设计的数据库。这个数据库收集了大量的政治学期刊、会议论文、学位论文以及相关的政策文件。ProQuest政治科学数据库的特点是内容丰富和更新频繁。它的数据来源于全球各地的政治学研究机构，因此可以提供最新的研究成果和政策动态。
+ 
+---
 
-/Users/liuyushan/Desktop/github/assets/images/proquest.png
+## 法学
 
-
-
-##法学
-###北大法宝（PKU Law）
-
-网址: http://www.pkulaw.cn/
-
-**简介：**
-
-“北大法宝”是由北京大学法制信息中心与北大英华科技有限公司联合推出的智能型法律信息一站式检索平台。 1985年诞生于北京大学法律系，经过30多年不断的改进与完善，是最成熟、专业、先进的法律信息全方位检索系统。 “北大法宝”在全国率先进行法律信息的数据挖掘和知识发现，独创了法规条文和相关案例等信息之间的“法宝联想”功能。
-
-###中国裁判文书网
+### 中国裁判文书网
 
 网址: http://wenshu.court.gov.cn/
-
+![](images/wenshu.png)
+ 
 **简介：**
 中国裁判文书网是中华人民共和国最高人民法院于2013年建立的全国法院统一的裁判文书公开平台，也是司法公开三大平台（审判流程公开、裁判文书公开、执行信息公开）之一，内容可供普通公众查阅。
 
-###Westlaw
+---
+
+### Westlaw
 
 网址: https://legal.thomsonreuters.com/en/westlaw
 
 **简介：**
 Westlaw International是先进的电子技术与全球范围资料库的完美结合，其丰富的资源来自法律、法规、税务和会计信息出版商。 用户可以通过Westlaw International迅速地存取案例、法令法规、表格、条约、商业资料和更多的资源。 通过布尔逻辑搜索引擎，用户可以检索数百万的法律文档。
 
-###LexisNexis
+---
+
+### LexisNexis
 
 网址: https://www.lexisnexis.com/
+![](images/ln2.png)
 
 **简介：**
 
 律商联讯是一家全球领先的法律、监管、商业信息和分析提供商，帮助客户提高生产力、改善决策和结果，并在世界各地推进法治工作。 RELX 集团是律商联讯的母公司，是一家为专业商务人士提供基于信息的分析和决策工具的全球供应商，为全球180 多个国家/地区的客户提供服务。
 
-###HeinOnline
+---
+
+### HeinOnline
 
 网址: https://home.heinonline.org/
 
 **简介：**
 HeinOnline 是全球领先的法律及政经全文数据库之一，现收录2800 多种法学期 刊， 15000 多部精品法学学术专著以及美国联邦和各州的案例，覆盖国际法、比较 法、人权法、刑法、知识产权法等核心学科，能够满足法学专业师生学习与科研需求。
 
-###JSTOR 法律研究文献
+---
+
+### JSTOR 法律研究文献
 
 网址: https://www.jstor.org/
 
 **简介：**
 JSTOR全名为Journal Storage，是一个对过期期刊进行数字化的非营利性机构，于1995年8月成立。目前JSTOR的全文库是以政治学、经济学、哲学、历史等人文社会学科主题为中心，兼有一般科学性主题共48个领域的代表性学术期刊的全文库。从创刊号到最近两三年前过刊都可阅读全文。有些过刊的回溯年代早至1665年。2012年，JSTOR推出电子书项目—Books at JSTOR，将电子书与电子期刊在同一平台上进行整合并提供服务。
 
+---
+
 ### SSRN 法律研究网络
 
 网址: https://www.ssrn.com/
+![](images/ssrn.png)
 
 **简介：**
 社会科学研究网（SSRN，Social Science Research Network）创建于1994年，是一个致力于快速地在世界范围内传播社会科学研究成果的网站。它是由大量的各个社会科学分支专门研究网络组成，并组成了一些专门的研究网络。截至2020年3月份，SSRN 已经收录包括财经、会计、法律、经济、管理等50多个领域的 91万篇预印本文章，并提供热门文章和作者的排名信息。2016年7月，SSRN被爱思唯尔公司收购，仍继续提供免费的论文提交、存储服务。
 
-###世界银行法律资源
+---
+
+### 世界银行法律资源
 
 网址: https://legalvicepresidency.worldbank.org/
 
 **简介：**
 世界银行提供的法律资源，包括法律研究报告、法律援助项目、国际法律框架和政策建议，适合研究国际法和发展法学。
 
-###联合国条约数据库（UN Treaty Collection）
+---
+
+### 联合国条约数据库（UN Treaty Collection）
 
 网址: https://treaties.un.org/
+![](images/unt.png)
 
 **简介：**
 联合国条约系列（UN Treaty Series）：联合国条约系列是世界上最重要的条约数据库之一，由联合国秘书处负责管理和维护。 该数据库收录了自1945年以来所有在联合国登记的国际条约和协定，并提供多种语言版本的条约文本。 用户可以通过该数据库查询和下载相关条约的全文和摘要信息。
